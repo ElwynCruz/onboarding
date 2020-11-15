@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Post {
+  text-align: left;
+  margin: 5% 5%;
+  padding: 1% 3%;
+  background-color: gainsboro;
+  
+}
+
+.PostInput {
+  margin: 5% 5%;
+  padding: 1% 3%;
+}
+
+.PostInput input {
+  width: 100%;
 }
